@@ -1,2 +1,2 @@
 # Small-projects
-My first small prjects
+My first small projects as a beginner
