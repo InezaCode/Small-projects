@@ -1,2 +1,2 @@
 # First-projects
-My first small projects as a beginner!
+A collection of beginner-friendly Python projects built to practice programming fundamentals through practical, interactive applications.
